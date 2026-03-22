@@ -171,29 +171,6 @@ Multi-SIEM-SOC-Lab/
 ├── README.md
 ├── SETUP.md
 ├── ATTACKS-AND-FINDINGS.md
-├── configs/
-│   ├── splunk/
-│   │   ├── inputs.conf
-│   │   └── correlation-searches.spl
-│   ├── sentinel/
-│   │   └── analytics-rules.json
-│   ├── wazuh/
-│   │   └── ossec.conf
-│   ├── elk/
-│   │   └── logstash.conf
-│   ├── jira/
-│   │   └── alert-action-config.md
-│   └── sysmon/
-│       └── sysmonconfig.xml
-├── scripts/
-│   ├── brute-force-rdp.py
-│   ├── mimikatz-runner.ps1
-│   └── ioc-extractor.py
-└── results/
-    ├── detection-matrix.csv
-    ├── screenshots/
-    └── investigation-notes.md
-```
 
 ---
 
